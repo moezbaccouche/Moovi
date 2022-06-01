@@ -26,4 +26,4 @@ API_KEY=[Your Key]
 
 ## Favorite Movies Page
 
-![Alt text](screenshots/Favorite.jpg?raw=true "Title")
+![Alt text](screenshots/Favorite.jpg?raw=true "Favorite Movies Page")
